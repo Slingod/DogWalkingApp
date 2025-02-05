@@ -27,8 +27,9 @@ Things you may want to cover:
 
 * rails new DogWalkingApp
 * cd DogWalkingApp
-
-Tcheck with
+* rails db:migrate
+* rails db:seed
+* Tcheck with
 
 - rails console
   DogSitter.all
